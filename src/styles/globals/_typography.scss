@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Work+Sans:wght@300&display=swap');
+@import './variables';
+
+#root {
+    font-family: $inter;
+}
+
+p {
+    line-height: 16px;
+    font-size: 10px;
+}
