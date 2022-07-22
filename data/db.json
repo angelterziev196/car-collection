@@ -1,5 +1,30 @@
 {
-  "profile": {
-    "name": "Angel Terziev"
-  }
+  "cars": [
+    {
+      "id": 1,
+      "brand": "asdasd",
+      "model": "sadasdasdasd",
+      "firstRegistration": "",
+      "horsePower": "",
+      "cubicCapacity": ""
+    },
+    {
+      "id": 2,
+      "brand": "asdasd",
+      "model": "sadasdasdsadasddasd",
+      "firstRegistration": "sadasd",
+      "horsePower": "asdasd",
+      "cubicCapacity": "sasdasd"
+    },
+    {
+      "id": 3,
+      "brand": "Mercedes",
+      "model": "S CLASS",
+      "firstRegistration": "1222",
+      "horsePower": "400",
+      "cubicCapacity": "6.3",
+      "fuelType": "petrol",
+      "filename": "C:\\fakepath\\laura-image.png"
+    }
+  ]
 }
